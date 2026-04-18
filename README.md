@@ -35,4 +35,5 @@ Professores Orientadores: Prof. Dr. Alexandre Lopes Machado Profº Mestra Débor
 
 Equipe Técnica Discente:
 
-André Felipe Dantas Medeiros Andrews Ribas de Aquino Christiano Miguel Samori de Azevedo Fernanda Alvarez Malvino Igor Viana Carvalho Rafael de Oliveira Teodoro
+Christiano Miguel Samori de Azevedo 
+
